@@ -1,0 +1,11 @@
+C:\Soft\Code\AspCore\DataLibrary\bin\Debug\netcoreapp2.1\AspCore.DataLibrary.deps.json
+C:\Soft\Code\AspCore\DataLibrary\bin\Debug\netcoreapp2.1\AspCore.DataLibrary.dll
+C:\Soft\Code\AspCore\DataLibrary\bin\Debug\netcoreapp2.1\AspCore.DataLibrary.pdb
+C:\Soft\Code\AspCore\DataLibrary\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Soft\Code\AspCore\DataLibrary\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Soft\Code\AspCore\DataLibrary\obj\Debug\netcoreapp2.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Soft\Code\AspCore\DataLibrary\obj\Debug\netcoreapp2.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Soft\Code\AspCore\DataLibrary\obj\Debug\netcoreapp2.1\DataLibrary.AssemblyInfo.cs
+C:\Soft\Code\AspCore\DataLibrary\obj\Debug\netcoreapp2.1\DataLibrary.csproj.CopyComplete
+C:\Soft\Code\AspCore\DataLibrary\obj\Debug\netcoreapp2.1\AspCore.DataLibrary.dll
+C:\Soft\Code\AspCore\DataLibrary\obj\Debug\netcoreapp2.1\AspCore.DataLibrary.pdb
